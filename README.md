@@ -33,6 +33,6 @@ The result of the poker hand compare can be one of the 3 options:
 The ranking of the hands follows the [Texas Hold'em rules](https://www.partypoker.com/how-to-play/hand-rankings.html)
 
 
-## 2. Tests
+## 2. Tests
 
 Sample unit tests have been included in the code skeleton. You can run them as a script: `python tests.py`. Writing more tests is welcome :)
