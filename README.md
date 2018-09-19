@@ -1,6 +1,7 @@
 # Poker hand analyser
 
 This program will analyze whether the player's hand is higher than the opponents', as well as displaying the winner of the Poker round.
+Run 'tests.py' to test this script.
 
 
 ## 1. Guidelines
